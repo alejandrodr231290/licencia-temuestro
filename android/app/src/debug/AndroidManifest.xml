@@ -1,0 +1,4 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="cu.sitransvc.generador_de_licencia">
+    <uses-permission android:name="android.permission.INTERNET" />
+</manifest>
